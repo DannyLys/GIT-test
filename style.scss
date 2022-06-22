@@ -6,6 +6,7 @@
 
 body {
   background-color: cornflowerblue;
+  height: 200vh;
 }
 
 div {
@@ -23,7 +24,7 @@ div {
   }
 
   & p {
-    text-decoration: overline;
+    text-decoration: underline;
     font-size: 20px;
   }
 }

@@ -1,1 +1,1 @@
-alert('just testing GH');
+alert('just testing GH, after new changes');
